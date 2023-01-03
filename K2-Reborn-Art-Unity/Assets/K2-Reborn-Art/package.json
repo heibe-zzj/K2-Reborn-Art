@@ -1,0 +1,20 @@
+{
+  "name": "k2.reborn.art",
+  "displayName": "K2-Reborn-Art",
+  "version": "0.0.1",
+  "description": "k2包工程模板",
+  "license": "MIT",
+  "unity": "2021.3.6f1",
+  "keywords": [
+    "k2",
+    "k2-reborn",
+    "package-template"
+  ],
+  "dependencies": {
+  },
+  "author": {
+    "name": "heibe.zzj",
+    "email": "heibe.zzj@gmail.com",
+    "wchat": "lychee-tree"
+  }
+}
