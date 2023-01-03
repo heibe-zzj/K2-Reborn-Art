@@ -155,6 +155,12 @@
       },
       "url": "https://packages.unity.com"
     },
+    "k2.reborn.art.scene": {
+      "version": "file:/Users/zhangzijian/Documents/dbg-atb-areacontrol/K2-Reborn-Art-Scene/Assets/K2-Reborn-Art-Scene",
+      "depth": 0,
+      "source": "local",
+      "dependencies": {}
+    },
     "com.unity.modules.ai": {
       "version": "1.0.0",
       "depth": 0,
